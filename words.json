@@ -1,0 +1,23 @@
+{
+    "Der Test" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Тест", "Изпит"],
+	    "English"   : ["Test", "Exam"]
+	}
+    },
+    "Die Prüfung" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Тест", "Изпит"],
+	    "English"   : ["Test", "Exam"]
+	}
+    },
+    "Die Arbeit" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Работа"],
+	    "English"   : ["Job", "Work"]
+	}
+    }
+}
