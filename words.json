@@ -19,5 +19,54 @@
 	    "Bulgarian" : ["Работа"],
 	    "English"   : ["Job", "Work"]
 	}
+    },
+    "Die Armut" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Бедност"],
+	    "English"   : ["Poverty"]
+	}
+    },
+    "Der Besitz" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Имущество", "Притежание"],
+	    "English"   : ["Possession", "Property"]
+	}
+    },
+    "Die Ursache" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Причина"],
+	    "English"   : ["Cause"]
+	}
+    },
+    "Die Gelegenheit" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Възможност"],
+	    "English"   : ["Opportunity"]
+	}
+    },
+    "retten" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["спасявам"],
+	    "English"   : ["safe", "rescue", "preserve", "recover"]
+	}
+    },
+    "Die Seele" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Душа"],
+	    "English"   : ["soul"]
+	}
+    },
+    "das Eigentum" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["Имущество", "Притежание", "Имот", "Собственост"],
+	    "English"   : ["Property", "Possession", "Estate", "Ownership"]
+	}
     }
 }
