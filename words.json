@@ -68,5 +68,54 @@
 	    "Bulgarian" : ["Имущество", "Притежание", "Имот", "Собственост"],
 	    "English"   : ["Property", "Possession", "Estate", "Ownership"]
 	}
+    },
+    "ewig" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["вечен", "завинаги"],
+	    "English"   : ["eternal", "forever", "everlasting"]
+	}
+    },
+    "die Einzelheit" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["подробност"],
+	    "English"   : ["detail", "particular"]
+	}
+    },
+    "angeblich" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["както се твърди"],
+	    "English"   : ["allegedly", "suppossedly"]
+	}
+    },
+    "allmählich" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["постепенно"],
+	    "English"   : ["step by step", "gradually"]
+	}
+    },
+    "zustimmen" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["съгласявам се", "давам съгласие"],
+	    "English"   : ["agree", "consent"]
+	}
+    },
+    "anscheinend" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["явно"],
+	    "English"   : ["apparently"]
+	}
+    },
+    "anzünden" : {
+	"Language" : "German",
+	"Translations" : {
+	    "Bulgarian" : ["запалвам"],
+	    "English"   : ["set fire", "ignite", "kindle"]
+	}
     }
 }
